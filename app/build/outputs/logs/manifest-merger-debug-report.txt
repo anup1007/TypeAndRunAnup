@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a6a3b8bd208c2389c391da442c597735/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/335a7bb98321be62e8cbdac306d63a75/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c2823e2184eba3426ae5202330fdb814/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ccbd484207612756b7186726a3cc316d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d2ea1a009b867e63ad201dd7d926212d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6683cfd16214855db28df40e9b8307ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aa1f390073ff442bc74adfb319b9a010/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c0ea99023c4398018cb43cf9e7b80dd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3755ef9d69026838afd9860713f4dc59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4463355ede573f388dd722bb0d96c2bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a088818bd70715d0bc8292f2ff39c50a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e3f46d6067e0c6f5ec42ac2c16c39e9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f0da55beb3fcdf91bdbd65d9b2abe175/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/05512a61e079d44273aaaa2fdef98160/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/44f4e8cc4cd8385f4b63d6ffcab32ec2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1baad736de388a54f651438c2c2feb9f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/420f9e18a757fe5a770e7b8d5f70f765/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/14768c54d67097e3b3d6f9d8d0841cc3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a7bbf8755f2110193b6fd4b21d6fdd20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7f950d1eb727dbd5215f3744d11a3fb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e9cc0faa4eb551d017bc69039e3da4a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4e1d1db39f30aec685ad5fd64dae7e16/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1713104feb4c0ef286331b007d403107/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a9dc4e6fb1ed2174f3dabaa922c9e2cb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/039802d7e160e60ea005c231cd1fffc8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/71953d9adef7ee45e8c554e4e16965c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9d724ad8bb67b4112e1208aef7334148/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/335a7bb98321be62e8cbdac306d63a75/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/335a7bb98321be62e8cbdac306d63a75/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1baad736de388a54f651438c2c2feb9f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1baad736de388a54f651438c2c2feb9f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/420f9e18a757fe5a770e7b8d5f70f765/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/420f9e18a757fe5a770e7b8d5f70f765/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1baad736de388a54f651438c2c2feb9f/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.e.typeandrunanup.MainActivity
+ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a6a3b8bd208c2389c391da442c597735/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a6a3b8bd208c2389c391da442c597735/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/335a7bb98321be62e8cbdac306d63a75/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/335a7bb98321be62e8cbdac306d63a75/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c2823e2184eba3426ae5202330fdb814/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c2823e2184eba3426ae5202330fdb814/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ccbd484207612756b7186726a3cc316d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ccbd484207612756b7186726a3cc316d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d2ea1a009b867e63ad201dd7d926212d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d2ea1a009b867e63ad201dd7d926212d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6683cfd16214855db28df40e9b8307ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6683cfd16214855db28df40e9b8307ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aa1f390073ff442bc74adfb319b9a010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aa1f390073ff442bc74adfb319b9a010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c0ea99023c4398018cb43cf9e7b80dd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c0ea99023c4398018cb43cf9e7b80dd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3755ef9d69026838afd9860713f4dc59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3755ef9d69026838afd9860713f4dc59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4463355ede573f388dd722bb0d96c2bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4463355ede573f388dd722bb0d96c2bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a088818bd70715d0bc8292f2ff39c50a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a088818bd70715d0bc8292f2ff39c50a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e3f46d6067e0c6f5ec42ac2c16c39e9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e3f46d6067e0c6f5ec42ac2c16c39e9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f0da55beb3fcdf91bdbd65d9b2abe175/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f0da55beb3fcdf91bdbd65d9b2abe175/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/05512a61e079d44273aaaa2fdef98160/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/05512a61e079d44273aaaa2fdef98160/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/44f4e8cc4cd8385f4b63d6ffcab32ec2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/44f4e8cc4cd8385f4b63d6ffcab32ec2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1baad736de388a54f651438c2c2feb9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1baad736de388a54f651438c2c2feb9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/420f9e18a757fe5a770e7b8d5f70f765/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/420f9e18a757fe5a770e7b8d5f70f765/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/14768c54d67097e3b3d6f9d8d0841cc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/14768c54d67097e3b3d6f9d8d0841cc3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a7bbf8755f2110193b6fd4b21d6fdd20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a7bbf8755f2110193b6fd4b21d6fdd20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7f950d1eb727dbd5215f3744d11a3fb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7f950d1eb727dbd5215f3744d11a3fb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e9cc0faa4eb551d017bc69039e3da4a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e9cc0faa4eb551d017bc69039e3da4a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4e1d1db39f30aec685ad5fd64dae7e16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4e1d1db39f30aec685ad5fd64dae7e16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1713104feb4c0ef286331b007d403107/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1713104feb4c0ef286331b007d403107/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a9dc4e6fb1ed2174f3dabaa922c9e2cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a9dc4e6fb1ed2174f3dabaa922c9e2cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/039802d7e160e60ea005c231cd1fffc8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/039802d7e160e60ea005c231cd1fffc8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/71953d9adef7ee45e8c554e4e16965c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/71953d9adef7ee45e8c554e4e16965c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9d724ad8bb67b4112e1208aef7334148/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anupnagarkoti/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9d724ad8bb67b4112e1208aef7334148/AndroidManifest.xml:20:5-44
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anupnagarkoti/Downloads/TypeAndRunAnup/app/src/main/AndroidManifest.xml
